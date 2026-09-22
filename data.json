@@ -2,7 +2,7 @@
   "meta": {
     "source": "Historico_Tarifario_Caracol_Concorrencia(2).xlsx",
     "start_period": "2023-12",
-    "end_period": "2026-07",
+    "end_period": "2026-08",
     "missing_policy": "Meses/valores sem informação são exibidos como 0.",
     "percent_policy": "Variação percentual não é calculada quando o mês anterior é 0."
   },
@@ -56,7 +56,8 @@
     "2026-04",
     "2026-05",
     "2026-06",
-    "2026-07"
+    "2026-07",
+    "2026-08"
   ],
   "data": [
     {
@@ -2741,7 +2742,7 @@
         "has_record": true
       },
       "Bondinhos Aéreos": {
-        "Adulto": 130.0,
+        "Adulto": 130,
         "Meia": 0,
         "has_record": true
       },
@@ -2751,42 +2752,42 @@
         "has_record": true
       },
       "Florybal": {
-        "Adulto": 190.0,
-        "Meia": 95.0,
+        "Adulto": 190,
+        "Meia": 95,
         "has_record": true
       },
       "Le Jardin": {
-        "Adulto": 35.0,
+        "Adulto": 35,
         "Meia": 0,
         "has_record": true
       },
       "Mini Mundo": {
-        "Adulto": 128.0,
-        "Meia": 64.0,
+        "Adulto": 128,
+        "Meia": 64,
         "has_record": true
       },
       "Mundo a Vapor": {
-        "Adulto": 129.0,
-        "Meia": 89.0,
+        "Adulto": 129,
+        "Meia": 89,
         "has_record": true
       },
       "NBA Park": {
-        "Adulto": 199.0,
+        "Adulto": 199,
         "Meia": 124.5,
         "has_record": true
       },
       "Olivas de Gramado": {
-        "Adulto": 139.0,
+        "Adulto": 139,
         "Meia": 0,
         "has_record": true
       },
       "Parque do Caracol": {
         "Adulto": 134.9,
-        "Meia": 67.0,
+        "Meia": 67,
         "has_record": true
       },
       "Pé da Cascata": {
-        "Adulto": 248.0,
+        "Adulto": 248,
         "Meia": 0,
         "has_record": true
       },
@@ -2796,13 +2797,99 @@
         "has_record": false
       },
       "Skyglass": {
-        "Adulto": 180.0,
+        "Adulto": 180,
         "Meia": 0,
         "has_record": true
       },
       "Snowland": {
         "Adulto": 319.9,
         "Meia": 184.5,
+        "has_record": true
+      },
+      "SpaceAdventure (NASA)": {
+        "Adulto": 119.9,
+        "Meia": 79.9,
+        "has_record": true
+      }
+    },
+    {
+      "period": "2026-08",
+      "label": "Ago/26",
+      "year": 2026,
+      "month_num": 8,
+      "Acquamotion": {
+        "Adulto": 149.9,
+        "Meia": 104.5,
+        "has_record": true
+      },
+      "Alpen Park": {
+        "Adulto": 148.9,
+        "Meia": 0,
+        "has_record": true
+      },
+      "Bondinhos Aéreos": {
+        "Adulto": 130,
+        "Meia": 0,
+        "has_record": true
+      },
+      "Exceed Park": {
+        "Adulto": 0,
+        "Meia": 0,
+        "has_record": false
+      },
+      "Florybal": {
+        "Adulto": 190,
+        "Meia": 95,
+        "has_record": true
+      },
+      "Le Jardin": {
+        "Adulto": 35,
+        "Meia": 0,
+        "has_record": true
+      },
+      "Mini Mundo": {
+        "Adulto": 108,
+        "Meia": 64,
+        "has_record": true
+      },
+      "Mundo a Vapor": {
+        "Adulto": 129,
+        "Meia": 89,
+        "has_record": true
+      },
+      "NBA Park": {
+        "Adulto": 159,
+        "Meia": 124.5,
+        "has_record": true
+      },
+      "Olivas de Gramado": {
+        "Adulto": 129,
+        "Meia": 0,
+        "has_record": true
+      },
+      "Parque do Caracol": {
+        "Adulto": 134.9,
+        "Meia": 67,
+        "has_record": true
+      },
+      "Pé da Cascata": {
+        "Adulto": 198,
+        "Meia": 0,
+        "has_record": true
+      },
+      "Roda Canela": {
+        "Adulto": 0,
+        "Meia": 0,
+        "has_record": false
+      },
+      "Skyglass": {
+        "Adulto": 180,
+        "Meia": 0,
+        "has_record": true
+      },
+      "Snowland": {
+        "Adulto": 199.9,
+        "Meia": 129.5,
         "has_record": true
       },
       "SpaceAdventure (NASA)": {
